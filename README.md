@@ -20,17 +20,17 @@ normal ~~Riscado~~
 - item de lista 1
 - item de lista 2
 
-1. item num
-2. item num
-
 [texto do link](https://url.com)
 ![alt da imagem](caminho-imagem.png)
+
 `código online`
+
 ```
   bloco 
   de 
   código
 ```
+
 >citação
 
 | Coluna 1 | Coluna 2 |
@@ -40,4 +40,38 @@ normal ~~Riscado~~
 ---
 (linha horizontal)
 
-teste texto
+Lista numerada:
+
+1. item num
+2. item num
+
+Lista demarcada:
+
+* teste
+* teste
+  *teste
+*teste
+
+- teste
+- teste
+  - teste
+- teste
+
+Lista de tarefas:
+- [x] Criar a página principal
+- [x] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] Receber pagamento
+
+# Teste imagem
+
+<img width="400" height="400" alt="dojocat" src="https://github.com/user-attachments/assets/83a39dc1-128a-40e6-9a81-330de85e697b" />
+
+***
+
+
+Num | Nome | Nota
+|---|---|---
+1 | Gustavo | 8,5
+2 | José | 5
+3 | Maycon | 7
